@@ -32,7 +32,7 @@ Este proyecto corresponde al Frontend de una aplicación web ecommerce desarroll
 1. Navega a la carpeta del proyecto:
 
    ```bash
-   cd Catedra3-IDWM-Frontendgi
+   cd Catedra3-IDWM-Frontend
    ```
 
 2. Instala las dependencias necesarias ejecutando el siguiente comando:
