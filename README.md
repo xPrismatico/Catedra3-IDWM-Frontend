@@ -32,7 +32,7 @@ Este proyecto corresponde al Frontend de una aplicación web ecommerce desarroll
 1. Navega a la carpeta del proyecto:
 
    ```bash
-   cd TallerIDWM-Frontend
+   cd Catedra3-IDWM-Frontendgi
    ```
 
 2. Instala las dependencias necesarias ejecutando el siguiente comando:
@@ -45,7 +45,7 @@ Este proyecto corresponde al Frontend de una aplicación web ecommerce desarroll
 
 ## Ejecutar el Proyecto
 
-Se necesita ejecutar en primer lugar el proyecto de API REST para que sea consumida por este proyecto. Enlace de la API REST en .NET (leer README de dicho proyecto para ejecutar): https://github.com/Catedra3-IDWM-
+Se necesita ejecutar en primer lugar el proyecto de API REST para que sea consumida por este proyecto. Enlace de la API REST en .NET (leer README de dicho proyecto para ejecutar)
 
 Una vez con la API REST en ejecución, siga estos pasos para ejecutar este proyecto:
 
@@ -63,9 +63,7 @@ Una vez con la API REST en ejecución, siga estos pasos para ejecutar este proye
 
 ---
 
-## Descripción del Proyecto
 
-TO DO
 
 ### Tecnologías Utilizadas
 
@@ -74,9 +72,7 @@ TO DO
 - **Flowbite**: Biblioteca para componentes interactivos y UI.
 - **Figma**: Herramienta utilizada para el diseño del prototipo.
 
-### Decisiones de Diseño
 
-TO DO
 
 1. **Validaciones de Campos**:
    - **Name**: TO DO
